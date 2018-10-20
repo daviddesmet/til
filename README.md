@@ -12,3 +12,8 @@ _0 TILs and counting..._
 
 ### Categories
 
+...
+
+## About
+
+Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
