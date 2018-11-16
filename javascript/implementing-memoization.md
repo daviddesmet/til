@@ -66,3 +66,5 @@ Testing it out the 2nd time:
 ### Words of advice
 
 When implementing memoization, keep in mind the memory overhead since we are storing the results and it makes impractical for functions which execute quickly or that are executed infrequently, hence why is **recommended in functions that are computationally expensive**. If memory usage is a concern, a fixed size cache should be considered.
+
+[Source](https://codeburst.io/understanding-memoization-in-3-minutes-2e58daf33a19)
