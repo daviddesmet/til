@@ -35,7 +35,7 @@ _14 TILs and counting..._
 - [Grabbing a single file from a Stash](git/grab-single-file-from-stash.md)
 - [Pushing a commit with GitHub noreply address](git/push-with-noreply-address.md)
 - [Renaming a Branch](git/renaming-branch.md)
-- [Showing status in Git Log](git/show-stats-git-log.md)
+- [Showing stats in Git Log](git/show-stats-git-log.md)
 - [Showing what's in a Stash](git/show-whats-in-stash.md)
 - [Stashing untracked files](git/stashing-untracked-files.md)
 - [Untracking without deleting](git/untracking-without-delete.md)
