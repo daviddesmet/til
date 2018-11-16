@@ -12,6 +12,7 @@ _14 TILs and counting..._
 
 ### Categories
 
+* [ASP.NET Core](#asp.net_core)
 * [C#](#c)
 * [DevOps](#devops)
 * [Git](#git)
@@ -21,6 +22,10 @@ _14 TILs and counting..._
 
 ---
 
+### ASP.NET Core
+
+...
+
 ### C#
 
 - [Async streams](csharp/async-streams.md)
@@ -29,6 +34,10 @@ _14 TILs and counting..._
 - [Recursive patterns](csharp/recursive-patterns.md)
 - [Switch expressions](csharp/switch-expressions.md)
 - [Target-typed new-expressions](csharp/target-typed-new-expressions.md)
+
+### DevOps
+
+...
 
 ### Git
 
@@ -40,6 +49,18 @@ _14 TILs and counting..._
 - [Stashing untracked files](git/stashing-untracked-files.md)
 - [Untracking without deleting](git/untracking-without-delete.md)
 - [Viewing a file on another Branch](git/viewing-file-on-another-branch.md)
+
+### JavaScript
+
+...
+
+### VSCode
+
+...
+
+### Vue.js
+
+...
 
 ## About
 
