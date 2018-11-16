@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _16 TILs and counting..._
 * [.NET Core](#net-core)
 * [ASP.NET Core](#aspnet-core)
 * [C#](#c)
+* [CSS](#css)
 * [DevOps](#devops)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -39,6 +40,10 @@ _16 TILs and counting..._
 - [Recursive patterns](csharp/recursive-patterns.md)
 - [Switch expressions](csharp/switch-expressions.md)
 - [Target-typed new-expressions](csharp/target-typed-new-expressions.md)
+
+### CSS
+
+- [Detect whether the user has Dark Mode enabled](css/dark-mode-media-query.md)
 
 ### DevOps
 
