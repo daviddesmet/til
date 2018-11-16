@@ -6,14 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [.NET Core](#net_core)
-* [ASP.NET Core](#aspnet_core)
+* [.NET Core](#net-core)
+* [ASP.NET Core](#aspnet-core)
 * [C#](#c)
 * [DevOps](#devops)
 * [Git](#git)
