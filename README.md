@@ -12,13 +12,13 @@ _14 TILs and counting..._
 
 ### Categories
 
-* [ASP.NET Core](#asp.net_core)
+* [ASP.NET Core](#aspnet_core)
 * [C#](#c)
 * [DevOps](#devops)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [VSCode](#vscode)
-* [Vue.js](#vue.js)
+* [Vue.js](#vuejs)
 
 ---
 
