@@ -12,7 +12,7 @@ _6 TILs and counting..._
 
 ### Categories
 
-* [C#](#c#)
+* [C#](#c)
 * [DevOps](#devops)
 * [Git](#git)
 * [JavaScript](#javascript)
