@@ -22,4 +22,5 @@ $ git rm --cached -r <directory>
 ```
 
 [Source at Stack Overflow](http://stackoverflow.com/questions/15027873/untrack-and-stop-tracking-files-in-git)
+
 [Source at Stack Overflow](http://stackoverflow.com/questions/1143796/remove-a-file-from-a-git-repository-without-deleting-it-from-the-local-filesyste)
