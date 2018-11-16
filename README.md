@@ -12,6 +12,7 @@ _14 TILs and counting..._
 
 ### Categories
 
+* [.NET Core](#net_core)
 * [ASP.NET Core](#aspnet_core)
 * [C#](#c)
 * [DevOps](#devops)
@@ -21,6 +22,10 @@ _14 TILs and counting..._
 * [Vue.js](#vuejs)
 
 ---
+
+### .NET Core
+
+- [Keeping dependencies up to date with dotnet-outdated](dotnet/dotnet-outdated.md)
 
 ### ASP.NET Core
 
@@ -64,4 +69,5 @@ _14 TILs and counting..._
 
 ## About
 
+© 2018 David De Smet
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
