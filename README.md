@@ -24,7 +24,7 @@ _14 TILs and counting..._
 
 ### ASP.NET Core
 
-...
+- ...
 
 ### C#
 
@@ -37,7 +37,7 @@ _14 TILs and counting..._
 
 ### DevOps
 
-...
+- ...
 
 ### Git
 
@@ -52,15 +52,15 @@ _14 TILs and counting..._
 
 ### JavaScript
 
-...
+- ...
 
 ### VSCode
 
-...
+- ...
 
 ### Vue.js
 
-...
+- ...
 
 ## About
 
