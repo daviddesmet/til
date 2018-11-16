@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -62,7 +62,7 @@ _17 TILs and counting..._
 
 ### JavaScript
 
-- ...
+- [Implementing Memoization](javascript/implementing-memoization.md)
 
 ### VSCode
 
