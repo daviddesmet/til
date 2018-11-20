@@ -19,7 +19,7 @@ _18 TILs and counting..._
 * [DevOps](#devops)
 * [Git](#git)
 * [JavaScript](#javascript)
-* [VSCode](#vscode)
+* [VS Code](#vscode)
 * [Vue.js](#vuejs)
 
 ---
