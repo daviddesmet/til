@@ -19,7 +19,7 @@ _18 TILs and counting..._
 * [DevOps](#devops)
 * [Git](#git)
 * [JavaScript](#javascript)
-* [VS Code](#vscode)
+* [VS Code](#vs-code)
 * [Vue.js](#vuejs)
 
 ---
@@ -64,7 +64,7 @@ _18 TILs and counting..._
 
 - [Implementing Memoization](javascript/implementing-memoization.md)
 
-### VSCode
+### VS Code
 
 - ...
 
