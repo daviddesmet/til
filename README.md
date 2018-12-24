@@ -20,7 +20,7 @@ _19 TILs and counting..._
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Miscellaneous](#miscellaneous)
-* [VSCode](#vscode)
+* [VS Code](#vs-code)
 * [Vue.js](#vuejs)
 
 ---
@@ -65,11 +65,15 @@ _19 TILs and counting..._
 
 - [Implementing Memoization](javascript/implementing-memoization.md)
 
+<<<<<<< HEAD
 ### Miscellaneous
 
 - [Open Visual Studio Code from WSL](misc/wsl_open_vs_code.md)
 
 ### VSCode
+=======
+### VS Code
+>>>>>>> 2dc1ee8bc55be51ed05eb8b051f2a689f0099ab4
 
 - ...
 
