@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _18 TILs and counting..._
 * [DevOps](#devops)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Miscellaneous](#miscellaneous)
 * [VSCode](#vscode)
 * [Vue.js](#vuejs)
 
@@ -63,6 +64,10 @@ _18 TILs and counting..._
 ### JavaScript
 
 - [Implementing Memoization](javascript/implementing-memoization.md)
+
+### Miscellaneous
+
+- [Open Visual Studio Code from WSL](misc/wsl_open_vs_code.md)
 
 ### VSCode
 
