@@ -6,7 +6,7 @@ you can open Windows programs from WSL. This delivers a seamless experience betw
 Let's begin by creating a symlink to VS Code's Windows binary:
 
 ```bash
-sudo ln -s /c/Users/[USERNAME]/AppData/Local/Programs/Microsoft\ VS\ Code/Code.exe code
+sudo ln -s /c/Users/[USERNAME]/AppData/Local/Programs/Microsoft\ VS\ Code/Code.exe /bin/code
 ```
 
 Now you will be able to issue `code .` in any directory within the wsl console.
