@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _20 TILs and counting..._
 - [.NET Core](#net-core)
 - [ASP.NET Core](#aspnet-core)
 - [C#](#c)
+- [CLI Tools](#cli-tools)
 - [CSS](#css)
 - [DevOps](#devops)
 - [Git](#git)
@@ -41,6 +42,12 @@ _20 TILs and counting..._
 - [Recursive patterns](csharp/recursive-patterns.md)
 - [Switch expressions](csharp/switch-expressions.md)
 - [Target-typed new-expressions](csharp/target-typed-new-expressions.md)
+
+### CLI Tools
+
+- [`ack` Search ignoring case distinctions](cli/ack/ignore-case.md)
+- [`ack` Search in specific files](cli/ack/specific-files.md)
+- [`tree` Depth-indented listing of files](cli/tree/usage.md)
 
 ### CSS
 
