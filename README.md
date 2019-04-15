@@ -75,11 +75,11 @@ _23 TILs and counting..._
 
 ### Miscellaneous
 
-- [Open Visual Studio Code from WSL](misc/wsl_open_vs_code.md)
+- ...
 
 ### VS Code
 
-- ...
+- [Open Visual Studio Code from WSL](vscode/wsl_open_vs_code.md)
 
 ### Vue.js
 
