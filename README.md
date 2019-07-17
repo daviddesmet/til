@@ -59,6 +59,7 @@ _23 TILs and counting..._
 
 ### Git
 
+- [Getting Started](git/getting-started.md)
 - [Grabbing a single file from a Stash](git/grab-single-file-from-stash.md)
 - [Keeping a fork up-to-date](git/keeping-a-fork-up-to-date.md)
 - [Pushing a commit with GitHub noreply address](git/push-with-noreply-address.md)
