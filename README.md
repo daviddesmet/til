@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -59,6 +59,7 @@ _23 TILs and counting..._
 
 ### Git
 
+- [Displaying configuration variables](git/show-configuration.md)
 - [Getting Started](git/getting-started.md)
 - [Grabbing a single file from a Stash](git/grab-single-file-from-stash.md)
 - [Keeping a fork up-to-date](git/keeping-a-fork-up-to-date.md)
