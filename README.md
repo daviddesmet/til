@@ -89,6 +89,6 @@ _25 TILs and counting..._
 
 ## About
 
-© 2018 David De Smet
+© 2019 David De Smet
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
