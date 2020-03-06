@@ -12,7 +12,7 @@ $ git config --global user.email {ID}+{username}@users.noreply.github.com
 $ git commit --amend --reset-author
 ```
 
-3. Now you can push the commit with the noreply e-mail address, and future commits will have the noreply e-mail address as well.
+3. Now you can push the commit with the noreply e-mail address, and future commits will have the noreply e-mail address as well. Use the `push --force` command to force push over the old commit
 
 ```bash
 $ git push
