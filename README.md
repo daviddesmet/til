@@ -29,6 +29,7 @@ _26 TILs and counting..._
 ### .NET Core
 
 - [Keeping dependencies up to date with dotnet-outdated](dotnet/dotnet-outdated.md)
+- [Remove specific .NET SDKs/Runtimes](dotnet/dotnet-uninstall.md)
 - [Using Microsoft XML Serializer Generator](dotnet/xml-serializer-generator.md)
 
 ### ASP.NET Core
